@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/codeSTACKr/nft-landing-page#readme",
   "dependencies": {
-    "node-fetch": "^2.6.7"
+    "@solana/web3.js": "^1.32.0",
+    "node-fetch": "^2.6.7",
+    "react-scripts": "^5.0.0"
   }
 }
